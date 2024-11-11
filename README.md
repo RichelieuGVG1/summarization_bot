@@ -6,10 +6,8 @@
 1. [Задание](#1)
 2. [Решение](#2)
 3. [Запуск кода](#3)
-4. [Уникальность нашего решения](#4)
-5. [Стек](#5)
-6. [Команда](#6)
-7. [Ссылки](#7)
+4. [Стек](#5)
+
 
 ## <a name="1"> Задание </a>
 
@@ -35,11 +33,10 @@ docker build -t my-python-app .
 ```Bash
 docker run -d --name my-app-container my-python-app
 ```
-## <a name="4">Уникальность нашего решения </a>
 
-Используем одну ЛЛМ отлично справляющуюся как с задачей RAG, так и суммаризацией. Используем кеширование, чтобы часто не тратить время на генерацию ответа.
+## Используем одну ЛЛМ отлично справляющуюся как с задачей RAG, так и суммаризацией. Используем кеширование, чтобы часто не тратить время на генерацию ответа.
 
-## <a name="5">Стек </a>
+## <a name="4">Стек </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Puthon" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Puthon" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Puthon" width="40" height="40"/>&nbsp;
