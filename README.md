@@ -1,4 +1,3 @@
-# <p align="center"> Vk education x FoCS </p>
 # <p align="center"> Суммаризация рабочего чата и возможность QA</p>
 
 
